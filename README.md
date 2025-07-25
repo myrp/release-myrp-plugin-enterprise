@@ -1,1 +1,1 @@
-# release-myrp-plugin-ce
+# release-myrp-plugin-enterprise
